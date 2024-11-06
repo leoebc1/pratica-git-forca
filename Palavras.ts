@@ -1,3 +1,4 @@
+//teste
 export const palavras = [
     ["FILME", "HALLOWEEN"],
     ["FILME", "A NOITE DOS MORTOS-VIVOS"],
